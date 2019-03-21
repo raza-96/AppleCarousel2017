@@ -6,4 +6,4 @@ https://web.archive.org/web/20170104131539/https://www.apple.com/
 Download the files and open in any browser
 
 ## Note
-JS has not been purged. Contains complete code that was used by Apple due to which the JS size is 272KB.
+JS has not been purged. Contains complete code that was used by Apple due to which the JS size is 250KB+.
